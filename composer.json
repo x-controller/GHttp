@@ -1,0 +1,14 @@
+{
+    "name": "xcontroller/g-http",
+    "description": "Simple Http client base on GuzzleHttp",
+    "license": "MIT",
+    "version": "1.7.3",
+    "require": {
+        "guzzlehttp/guzzle": "^6.0 | ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jaeger\\": "src"
+        }
+    }
+}
